@@ -1,0 +1,1 @@
+{"version":3,"sources":["sass/_example.scss"],"names":[],"mappings":"AAAA,OACE,gBAAA,CACA,wBAAA,CACA,iBAAA,CACD","file":"src.dc9ee731.css","sourceRoot":"../src","sourcesContent":["button{\n  padding:5px 20px;\n  background-color: rgb(243, 33, 191);\n  border-radius: 5px;\n border: none;\n}"]}
